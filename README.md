@@ -29,7 +29,7 @@ there wasn't a lexer as such, so part of the game was guessing what would be
 considered grammatical.  Note the special handling of obscenities; eventually
 these were represented in data blocks with primitive obfuscation, growing
 to classify various teachers and fellow students of whom I disapproved as having
-explitives for names.
+expletives for names.
 
 I'm embarrassed to say that I still find some of the jokes funny.
 
